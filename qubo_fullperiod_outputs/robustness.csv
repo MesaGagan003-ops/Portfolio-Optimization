@@ -1,0 +1,32 @@
+,,0
+grid: utility loss (pp),10.0,0.14961819911733787
+grid: utility loss (pp),20.0,0.02698546472519603
+grid: utility loss (pp),40.0,0.06633600011856922
+sweeps: QUBO-W loss (pp),10.0,0.4511858474438006
+sweeps: QUBO-W loss (pp),25.0,0.20717576275112634
+sweeps: QUBO-W loss (pp),50.0,0.10811767598777704
+sweeps: QUBO-W loss (pp),100.0,0.04811787634637632
+sweeps: QUBO-W loss (pp),200.0,0.046081906022553874
+sweeps: QUBO-W loss (pp),400.0,0.026422875091320724
+sweeps: QUBO-S hit (%),10.0,37.760416666666664
+sweeps: QUBO-S hit (%),25.0,63.020833333333336
+sweeps: QUBO-S hit (%),50.0,87.23958333333333
+sweeps: QUBO-S hit (%),100.0,100.0
+sweeps: QUBO-S hit (%),200.0,100.0
+sweeps: QUBO-S hit (%),400.0,100.0
+penalty: loss (pp),0.25,0.018212309547613326
+penalty: loss (pp),0.5,0.02698546472519603
+penalty: loss (pp),1.0,0.049644413260932496
+penalty: loss (pp),2.0,0.02698546472519603
+penalty: loss (pp),4.0,0.08574434557260535
+penalty: loss (pp),8.0,0.07531424799468722
+penalty: feasible (%),0.25,100.0
+penalty: feasible (%),0.5,100.0
+penalty: feasible (%),1.0,100.0
+penalty: feasible (%),2.0,100.0
+penalty: feasible (%),4.0,100.0
+penalty: feasible (%),8.0,100.0
+cap: utility loss (pp),0.2,0.010325612175937637
+cap: utility loss (pp),0.3,0.02698546472519603
+cap: utility loss (pp),0.5,0.018212309547613326
+cap: utility loss (pp),1.0,0.23617235424654714

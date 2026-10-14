@@ -1,0 +1,21 @@
+Ticker,Name,Rows,First_Date,Last_Date,Missing_Close
+MSFT,Microsoft Corporation,6539,2000-01-03,2025-12-31,0
+AAPL,Apple Inc.,6539,2000-01-03,2025-12-31,0
+NVDA,NVIDIA Corporation,6539,2000-01-03,2025-12-31,0
+AMZN,Amazon.com Inc.,6539,2000-01-03,2025-12-31,0
+INTC,Intel Corporation,6539,2000-01-03,2025-12-31,0
+WMT,Walmart Inc.,6539,2000-01-03,2025-12-31,0
+KO,The Coca-Cola Company,6539,2000-01-03,2025-12-31,0
+DIS,The Walt Disney Company,6539,2000-01-03,2025-12-31,0
+PG,The Procter & Gamble Company,6539,2000-01-03,2025-12-31,0
+IBM,International Business Machines,6539,2000-01-03,2025-12-31,0
+MCD,McDonald's Corporation,6539,2000-01-03,2025-12-31,0
+JPM,JPMorgan Chase & Co.,6539,2000-01-03,2025-12-31,0
+GS,"The Goldman Sachs Group, Inc.",6539,2000-01-03,2025-12-31,0
+MS,Morgan Stanley,6539,2000-01-03,2025-12-31,0
+AXP,American Express Company,6539,2000-01-03,2025-12-31,0
+BAC,Bank of America Corporation,6539,2000-01-03,2025-12-31,0
+JNJ,Johnson & Johnson,6539,2000-01-03,2025-12-31,0
+XOM,ExxonMobil Corporation,6539,2000-01-03,2025-12-31,0
+UNH,UnitedHealth Group Incorporated,6539,2000-01-03,2025-12-31,0
+BRK-B,Berkshire Hathaway Inc. (Class B),6539,2000-01-03,2025-12-31,0
