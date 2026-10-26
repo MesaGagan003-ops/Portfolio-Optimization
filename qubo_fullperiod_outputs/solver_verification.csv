@@ -1,11 +1,11 @@
 ,value
-QUBO-S: best objective found,-0.13098426684172915
-QUBO-S: exact optimum,-0.13098426684172915
+QUBO-S: best objective found,-0.13098425687010096
+QUBO-S: exact optimum,-0.13098425687010098
 QUBO-S: same stocks as exact optimum,True
 QUBO-S: chains reaching exact optimum (%),100.0
-QUBO-W: objective,-0.14212026518714338
-Continuous optimum (lower bound),-0.14239011983439534
-QUBO-W: utility loss vs continuous optimum (pp of annual return),0.02698546472519603
-Naive rounding: utility loss vs continuous (pp of annual return),0.018212309547613326
+QUBO-W: objective,-0.14212025911010126
+Continuous optimum (lower bound),-0.14239010788913853
+QUBO-W: utility loss vs continuous optimum (pp of annual return),0.026984877903726834
+Naive rounding: utility loss vs continuous (pp of annual return),0.018211868843287515
 QUBO-W: chains ending budget-feasible (%),100.0
-QUBO-W: best single-unit swap gain (0 = swap-optimal),-8.773155177582703e-05
+QUBO-W: best single-unit swap gain (0 = swap-optimal),-8.773009060439318e-05
