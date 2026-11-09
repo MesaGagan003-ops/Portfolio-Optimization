@@ -1,0 +1,9 @@
+Method,Portfolio,Return %,Vol %,Sharpe,Objective
+"MIQP (Gurobi, k = 6, free weights)  [Task 1]","UNH, AAPL, JNJ, NVDA, MCD, BRK-B  (20.3 / 19.3 / 17.7 / 16.0 / 15.2 / 11.5%)",22.76,21.15,1.076,-0.1126
+QUBO + own SA (k = 6)  [Task 1],"AAPL, NVDA, MCD, JNJ, UNH, BRK-B  (16.67% each)",22.26,20.75,1.073,-0.1119
+QUBO + D-Wave local SA  [Task 1],same six stocks (optimum in 4.3% of reads),22.26,20.75,1.073,-0.1119
+Ising + exhaustive search,"AAPL, NVDA, MCD, JNJ, UNH, BRK-B  (16.67% each)",22.26,20.75,1.073,-0.1119
+"Ising + simulated annealing (single flips, 1000 x 1000)","AAPL, NVDA, MCD, JNJ, UNH, BRK-B  (optimum in 3.8% of reads)",22.26,20.75,1.073,-0.1119
+"Ising + simulated annealing (single flips, 128 x 150)","AAPL, NVDA, MCD, JNJ, UNH, BRK-B  (optimum in 1.3% of reads)",22.26,20.75,1.073,-0.1119
+"Ising + simulated annealing (with two-spin moves, 128 x 150)","AAPL, NVDA, MCD, JNJ, UNH, BRK-B  (optimum in 100.0% of reads)",22.26,20.75,1.073,-0.1119
+Ising + QPU / other (optional),not run,,,,
