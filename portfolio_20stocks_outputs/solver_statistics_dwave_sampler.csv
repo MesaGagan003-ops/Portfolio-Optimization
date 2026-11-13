@@ -1,0 +1,10 @@
+,Ising SA (SPIN model),QUBO SA (D-Wave sampler on the QUBO)
+Best objective (mean),-0.11186641619158956,-0.11186641619158956
+Gap to exact (mean),-2.7755575615628914e-17,-2.7755575615628914e-17
+Reads at optimum % (mean),3.5700000000000003,3.7966666666666673
+Reads at optimum % (std),0.6314460689014022,0.49652817632543006
+Reads at optimum % (min-max),2.4 - 5.1,2.9 - 5.2
+Feasible reads % (mean),99.24000000000001,99.23666666666666
+Feasible reads % (std),0.2907777916862485,0.22664469129444448
+Seeds whose best read is optimal (of 30),30,30
+Runtime s (mean),0.9909373203913371,0.957823904355367

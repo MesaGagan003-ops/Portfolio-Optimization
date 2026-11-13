@@ -1,0 +1,5 @@
+,best objective (mean),gap to optimum (max over seeds),seeds whose best read = optimum,% reads at optimum (mean),% reads at optimum (std),% feasible reads (mean),runtime s per run (mean)
+"Ising SA (own code), 128 chains x 150 sweeps",-0.11147261271615404,0.0025547757828958823,25 / 30,1.3020833333333333,1.0528316872993562,100.0,0.07995062669118246
+"Ising SA (own code), 1000 reads x 1000 sweeps",-0.11186641619158956,2.3592239273284576e-16,30 / 30,3.783333333333333,0.5620672025922565,100.0,1.5693151950836182
+"Ising SA (own code) + two-spin moves, 128 chains x 150 sweeps",-0.11186641619158956,2.3592239273284576e-16,30 / 30,100.0,0.0,100.0,0.2847534815470378
+"QUBO SA (own code of Section 6.1), 128 x 150",-0.11186641619158956,2.3592239273284576e-16,30 / 30,100.0,0.0,100.0,0.36526923974355063
