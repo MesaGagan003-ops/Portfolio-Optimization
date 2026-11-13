@@ -1,0 +1,8 @@
+,Simulated annealing (QUBO),Ising spin glass (SA on Ising)
+runs (seeds),20,20
+chains x sweeps per run,64 x 500,64 x 500
+best objective over all runs,-0.15803769408459686,-0.15803769408459686
+runs that reached the reference,19 / 20,15 / 20
+chains at the reference (%)  mean ± std,4.92 ± 2.74,3.44 ± 3.07
+chains with sum(x) = k (%)  mean ± std,100.00 ± 0.00,100.00 ± 0.00
+time per run (s)  mean,35.94,31.58
