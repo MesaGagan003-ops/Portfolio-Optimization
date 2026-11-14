@@ -1,0 +1,3 @@
+,Best objective (mean over seeds),Best objective (best seed),Best objective (worst seed),Mean objective of feasible reads,Feasible reads (%),Runtime per run (s)
+"Ising SA (D-Wave sampler, 100 x 1000)",-0.06499011492619503,-0.06935502731585075,-0.05724663952969422,-0.00525445579425418,94.9,4.8092854738235475
+"QUBO SA (D-Wave sampler, 100 x 1000)",-0.0649901149127345,-0.06935502730175358,-0.05724663951650655,-0.005254455780561046,94.9,5.015378737449646
