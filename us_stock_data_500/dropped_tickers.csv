@@ -1,0 +1,47 @@
+Ticker,Name,First price date,Missing days,Reason
+ABNB,Airbnb,2020-12-10,1496,started after the first trading day
+APP,AppLovin,2021-04-15,1581,started after the first trading day
+XYZ,"Block, Inc.",2015-11-19,223,started after the first trading day
+BE,Bloom Energy,2018-07-25,896,started after the first trading day
+CARR,Carrier Global,2020-03-19,1311,started after the first trading day
+CVNA,Carvana,2017-04-28,584,started after the first trading day
+COIN,Coinbase,2021-04-14,1580,started after the first trading day
+CEG,Constellation Energy,2022-01-19,1774,started after the first trading day
+CRWD,CrowdStrike,2019-06-12,1117,started after the first trading day
+DDOG,Datadog,2019-09-19,1186,started after the first trading day
+DELL,Dell Technologies,2016-08-17,409,started after the first trading day
+DASH,DoorDash,2020-12-09,1495,started after the first trading day
+DOW,Dow Inc.,2019-03-20,1059,started after the first trading day
+P,Everpure,2015-10-06,191,started after the first trading day
+EXE,Expand Energy,2021-02-10,1537,started after the first trading day
+FDXF,FedEx Freight,,2766,no data returned
+FTV,Fortive,2016-07-05,378,started after the first trading day
+FOXA,Fox Corporation (Class A),2019-03-12,1053,started after the first trading day
+FOX,Fox Corporation (Class B),2019-03-13,1054,started after the first trading day
+GEHC,GE HealthCare,2022-12-15,2003,started after the first trading day
+GEV,GE Vernova,2024-03-27,2323,started after the first trading day
+GDDY,GoDaddy,2015-03-31,60,started after the first trading day
+HPE,Hewlett Packard Enterprise,2015-10-19,200,started after the first trading day
+HONA,Honeywell Aerospace,,2766,no data returned
+HWM,Howmet Aerospace,2016-11-01,462,started after the first trading day
+IR,Ingersoll Rand,2017-05-12,594,started after the first trading day
+INVH,Invitation Homes,2017-02-01,524,started after the first trading day
+KHC,Kraft Heinz,2015-07-06,126,started after the first trading day
+LITE,Lumentum,2015-07-23,139,started after the first trading day
+MRNA,Moderna,2018-12-07,990,started after the first trading day
+OKTA,"Okta, Inc.",2017-04-07,570,started after the first trading day
+OTIS,Otis Worldwide,2020-03-19,1311,started after the first trading day
+PLTR,Palantir Technologies,2020-09-30,1446,started after the first trading day
+PYPL,PayPal,2015-07-06,126,started after the first trading day
+Q,Qnity Electronics,2025-10-27,2720,started after the first trading day
+RDDT,Reddit,2024-03-21,2319,started after the first trading day
+HOOD,Robinhood Markets,2021-07-29,1654,started after the first trading day
+SNDK,Sandisk,2025-02-13,2544,started after the first trading day
+SOLV,Solventum,2024-03-26,2322,started after the first trading day
+TWLO,Twilio,2016-06-23,371,started after the first trading day
+UBER,Uber,2019-05-10,1095,started after the first trading day
+VLTO,Veralto,2023-10-04,2203,started after the first trading day
+VRT,Vertiv,2018-08-02,902,started after the first trading day
+VICI,Vici Properties,2018-01-02,755,started after the first trading day
+VST,Vistra Corp.,2016-10-05,443,started after the first trading day
+VYLR,Vylor,,2766,no data returned
