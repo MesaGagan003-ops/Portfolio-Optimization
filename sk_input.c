@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <time.h>
 #include <math.h>
-#define N 25
+#define N 20
 #define tau 125
 #define NRUN 10000   
 #define JFILE "J_input.txt"   // <<< input file with the J_ij values
