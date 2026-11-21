@@ -7,7 +7,7 @@
 #define NRUN_DEFAULT 10000
 #define JFILE "J_input.txt"       // N x N coupling matrix J_C (written by the notebook)
 #define HFILE "h_input.txt"       // N field values h_C   (written by the notebook)      <<< CHANGED: new input
-#define OUTFILE "spins_output.txt"// one line per run: energy s_1 ... s_N                <<< CHANGED: new output
+#define OUTFILE "spins_output_500.txt"// one line per run: energy s_1 ... s_N                <<< CHANGED: new output
 //#define M_PI 3.14159265359
 float **J;
 static double J0[N][N];           // CHANGED: couplings in double precision (used for the energies written to the output file)
