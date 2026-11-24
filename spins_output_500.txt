@@ -1,0 +1,4 @@
+#Execution took 53.795 seconds.
+#runs 1000 | gamma_rel 1 (gamma0 18.1536) | seed 1795494934 | N 457 | format E then 0-based indices of +1 spins | best E -3765.7775615706
+#chosen-stock counts (count:runs): 10:1000
+-3765.7775615706 83 112 177 258 298 311 338 400 404 436
